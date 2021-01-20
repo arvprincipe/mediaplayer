@@ -1,0 +1,17 @@
+{
+  "name": "@arvprincipe/mediaplayer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "lib/MediaPlayer.js",
+  "scripts": {
+    "build": "tsc --build",
+    "clean": "tsc --build --clean",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
+}
